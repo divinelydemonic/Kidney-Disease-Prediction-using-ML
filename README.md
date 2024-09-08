@@ -157,3 +157,82 @@ period of months or years. Kidney disease is often caused by diabetes and
 high blood pressure, and by using models such as these we would be able to 
 
 predict, detect, prevent as well as properly cure such diseases.
+
+
+4. LITERATURE REVIEW
+
+Several studies have been performed on disease prediction using machine learning. 
+
+The prediction of disease using different ml algorithm help us to find accuracy among 
+
+ML models.
+
+Bemando et al. investigated the relationship between blood-related diseases and 
+
+their features utilizing classifier methods such as Gaussian NB, Bernoulli NB, and 
+
+Random Forest. 
+
+These three algorithms anticipate and offer statistical findings in a variety of ways. 
+
+In this experiment, we discovered that Nave Bayes estimated accuracy was higher 
+
+than that of other algorithms. [6]
+
+Kumar and Polepaka devised a technique for illness prediction in the medical field. 
+
+They employed Random Forest and CNN as well as other machine learning 
+
+methods. 
+
+For illness dataset classification, precision, recall, and F1-score, these algorithms 
+
+deliver better results. In this experiment, Random Forest outperformed other 
+
+algorithms in terms of accuracy and statistical performance.
+
+On the kidney disease dataset, Nithya et al. developed a method for categorization 
+
+and cluster-based analysis. 
+
+On diverse sets of photos, the authors utilized the K-Means clustering technique to 
+
+collect the closest familiar images. They calculated 99.61 percent classification 
+
+accuracy using Artificial Neural Networks for Kidney Disease Image Prediction. [3]
+
+The purpose of the proposed model is to predict whether the patient will suffer or 
+
+develop chronic kidney disease in the future if he continues their lifestyle. 
+
+This information can be used to determine whether the kidney disease is using eGFR 
+
+(glomerular filtration rate), which helps the doctor plan the appropriate treatment.
+
+Estimated glomerular filtration rate (eGFR) defines the degree of kidney disease and 
+
+measures kidney function.
+
+A combination of estimated glomerular filtration rate (GFR), age, diet, existing 
+
+medical conditions, and albuminuria can be used to assess the severity of kidney 
+
+disease, but requires more accurate information about the risk to the kidney is 
+
+required to make clinical decisions about diagnosis, treatment, and prognosis. [8]
+
+While the factors mentioned provide a valuable starting point, a more 
+
+comprehensive evaluation might involve additional tests like kidney ultrasounds, 
+
+biopsies, or genetic screenings. [10]
+
+These can pinpoint the underlying cause of the kidney damage, assess the extent of 
+
+scarring, and identify potential complications. [4]
+
+This more detailed picture allows healthcare professionals to tailor treatment plans 
+
+to address the specific issues at hand, potentially slowing disease progression and 
+
+improving long-term outcomes for the patient.
