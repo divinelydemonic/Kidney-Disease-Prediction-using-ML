@@ -110,3 +110,50 @@ effective. [1]
 Along with it, we have also provided an about page which gives information about the 
 
 symptoms & information about the diseases.
+
+
+3. OBJECTIVES
+
+The objectives of our project are as follows: -
+
+1. Early detection & treatment: - Engineers and medical researchers are 
+
+trying to develop machine learning algorithms and models that can identify 
+
+chronic kidney disease at an early stage. The problem is that the data 
+
+generated in the health industry is large and complex, making data analysis 
+
+difficult. [7]
+
+2. Reducing the fatality of disease: - Combination of estimated glomerular 
+
+filtration rate (GFR), age, diet, existing medical conditions, and albuminuria 
+
+can be used to assess the severity of kidney disease, but requires more 
+
+accurate information about the risk to the kidney is required to make clinical 
+
+decisions. [3]
+
+3. Chronic kidney disease (CKD) is a life-threatening condition that can be 
+
+difficult to diagnose early because there are no symptoms. The purpose of 
+
+the proposed study is to develop and validate a predictive model for the 
+
+prediction of chronic kidney disease.
+
+The main function of the kidney is to filter the blood in the body. Kidney 
+
+disease is a silent killer because it can cause kidney failure without causing 
+
+any symptoms or concern. [4]
+
+4. Chronic kidney disease is defined as a decline in kidney function over a 
+
+period of months or years. Kidney disease is often caused by diabetes and 
+
+high blood pressure, and by using models such as these we would be able to 
+
+predict, detect, prevent as well as properly cure such diseases.
